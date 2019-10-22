@@ -1,7 +1,8 @@
-# UdemyCppSectionChallenges
+### UdemyCppSectionChallenges
 
-Sections description:
+### Sections description:
 
+```bash
 Section4: Getting Started
 Section6: Variables and Constants
 Section7: Arrays and Vectors
@@ -16,3 +17,4 @@ Section15: Inheritance
 Section16: Polymorphism
 Section17: Smart Pointers
 Section18: Exception Handling
+'''
